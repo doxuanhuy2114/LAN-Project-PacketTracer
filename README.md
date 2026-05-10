@@ -12,4 +12,4 @@ cấu hình Trunk, Router-on-a-Stick và DHCP tự động.
 
 ## Kết quả
 - PC nhận IP tự động đúng VLAN
-- Ping thành công cùng VLAN và khác VLAN
+- Ping thành công cùng VLAN và khác VLAN 
